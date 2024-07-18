@@ -1,0 +1,7 @@
+coba dengan xpath 
+
+Nama barang = //*[@id="homepagePromoBrandProductName"]
+sebelum diskon barang = //*[@id="homepagePromoBrandPrice"]/div[1]/text()[2]
+sesudah diskon barang = //*[@id="homepagePromoBrandPrice"]/div[3]/text()[2]
+rating = //*[@id="productsProductCard"]/div/div[6]/span[1]/text()[1]
+ulasan = //*[@id="productsProductCard"]/div/div[6]/span[2]/text()[2]
